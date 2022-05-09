@@ -9,9 +9,15 @@ trainBal.csv and validBal.csv represent the balanced (downsampled) train and val
 
 trainAug.csv and validAug.csv represent the augmented train and validation versions of the TrainEnglish.csv.
 
+Downsampling_Code.ipynb represents the code used to downsample the TrainEnglish.csv dataset.
+
+Augmentation_Code.ipynb represents the code used to augment the TrainEnglish.csv dataset.
+
 Ensem.ipynb represents the ensemble method code. to run it 
 
-sequentialModels.ipynb represnet the code used  to train the RNN-based models on the Imbalanced datasets of the train and validation // When running it, pay attention to the location paths of datasets files.
+sequentialModels.ipynb represnet the code used to train the RNN-based models. // when using it pay attention to the dataset file location path.
+
+
 
 
 
