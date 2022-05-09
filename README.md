@@ -13,9 +13,11 @@ Downsampling_Code.ipynb represents the code used to downsample the TrainEnglish.
 
 Augmentation_Code.ipynb represents the code used to augment the TrainEnglish.csv dataset.
 
-Ensem.ipynb represents the ensemble method code. to run it 
+Ensem.ipynb represents the ensemble method code. // The following links are the links of the BERT and RoBERTa models used in the ensemble // BERT: https://drive.google.com/drive/folders/12lBKYPdShV_2W0EdoK_cXT7DtNHu9RDi?usp=sharing // RoBERTa: https://drive.google.com/drive/folders/103jYpt5xgmrd8Mq02q4tBt38iRx0Vc4c?usp=sharing.
 
 sequentialModels.ipynb represnet the code used to train the RNN-based models. // when using it pay attention to the dataset file location path.
+
+Bert_Code.ipynb represent the code of the BERT model with  a sample of running with the following parameters: (Batch size = 10, Number of epochs = 3, The last 4 layers are trainable)
 
 
 
