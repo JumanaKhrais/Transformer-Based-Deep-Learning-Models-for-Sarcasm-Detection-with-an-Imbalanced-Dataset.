@@ -17,7 +17,14 @@ Ensem.ipynb represents the ensemble method code. // The following links are the 
 
 sequentialModels.ipynb represnet the code used to train the RNN-based models. // when using it pay attention to the dataset file location path.
 
-Bert_Code.ipynb represent the code of the BERT model with  a sample of running with the following parameters: (Batch size = 10, Number of epochs = 3, The last 4 layers are trainable)
+Bert_Code.ipynb represents the code of the BERT model with  a sample of running with the following parameters: (Batch size = 10, Number of epochs = 3, The last 4 layers are trainable)
+
+RoBERTa_Code.ipynb represents the code of the BERT model with  a sample of running with the following parameters: (Batch size = 7 , Number of epochs = 3, The last 3 layers are trainable)
+
+
+
+
+
 
 
 
